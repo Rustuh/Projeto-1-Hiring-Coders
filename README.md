@@ -13,3 +13,5 @@ Foi feito uma Landing page com os seguintes criterios:
 
 - Campo para cadastro de Nome e E-mail com dados salvos no LocalStorage
 
+Link do projeto: https://gracious-pasteur-996801.netlify.app
+
